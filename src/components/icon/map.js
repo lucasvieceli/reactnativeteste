@@ -1,0 +1,15 @@
+export default {
+    'ios-chatbubbles-outline': 61765,
+    'ios-thumbs-up-outline': 62037,
+    'ios-home-outline': 62535,
+    'ios-contact-outline': 62489,
+    'ios-cog': 62482,
+    'ios-heart-outline': 62530,
+    'ios-search-outline': 61962,
+    'ios-arrow-back-outline': 62415,
+    'ios-happy-outline': 61841,
+    'ios-cloud-upload-outline': 62474,
+    'ios-send-outline': 61963,
+    'ios-arrow-round-back-outline': 61719,
+    'ios-cloud-download-outline': 62471,
+}
